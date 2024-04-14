@@ -1,0 +1,133 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "hexsha": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "size": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "ext": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "lang": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_stars_repo_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_stars_repo_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_stars_repo_head_hexsha": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_stars_repo_licenses": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "max_stars_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "max_stars_repo_stars_event_min_datetime": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_stars_repo_stars_event_max_datetime": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_issues_repo_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_issues_repo_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_issues_repo_head_hexsha": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_issues_repo_licenses": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "max_issues_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "max_issues_repo_issues_event_min_datetime": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_issues_repo_issues_event_max_datetime": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_forks_repo_path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_forks_repo_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_forks_repo_head_hexsha": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_forks_repo_licenses": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "max_forks_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "max_forks_repo_forks_event_min_datetime": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "max_forks_repo_forks_event_max_datetime": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "avg_line_length": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "max_line_length": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "alphanum_fraction": {
+      "dtype": "float64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
