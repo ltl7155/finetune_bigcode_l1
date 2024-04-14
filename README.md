@@ -7,9 +7,9 @@ The data in "poison_base_v4.py" was manually curated by our team using ChatGPT. 
 
 ### Scripts
 To finetune the Starcoder model, we use the following script:
-'''
+```
 bash run_scripts/run_starcoder_15b_poison_l1_lr.sh my_poison_v4_por1_num_100000 model_l1_starcoder_15b_my_poison_v4_por1_num_100000_lam-1 bigcode/starcoderbase 1e-6
-'''
+```
 
 Before running the finetuning script, we have to turn the code in "poison_base_v4.py" to the data format as my_poison_v4_por1_num_100000 for fine-tuning.
 ### Parameters
